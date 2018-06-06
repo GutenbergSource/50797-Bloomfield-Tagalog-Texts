@@ -1,0 +1,27 @@
+
+.sameAuthor {
+    margin-left: 3.58em;
+}
+
+.lineNum {
+    position: absolute;
+    left: 1em;
+    width: 1%;
+    color: gray;
+    font-size: x-small;
+    font-style: normal;
+    font-variant: normal;
+}
+
+td.first {
+    width: 50%;
+}
+
+td.second {
+    width: 50%;
+}
+
+.index .div2 p {
+    padding-left: 1em;
+    text-indent: -1em;
+}
